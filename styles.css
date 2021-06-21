@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    width: 90%;
+    color: rgb(136, 129, 219);
+}
+form{
+    margin: 20px auto;
+    padding: 10px 0;
+    background-color: rgb(177, 170, 179);
+    /* color: rgb(177, 173, 219); */
+}
+ul,ol{
+    list-style: none;
+    display: inline-block;
+} 
+input, label, select{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+img{
+    width: 30%;
+    height: 30%;
+    padding: 5%;
+}
+.small{
+    width: 5%;
+    min-width: 30px;
+    margin: 0 4%;
+}
+ul li{
+    display: inline-block;
+    padding: 10px;
+}
+li{
+    color: orange;
+}
+form{
+    border: 2px dashed rgb(84, 143, 161);
+    width: 60%;
+}
